@@ -83,7 +83,7 @@ switch (action) {
     break;
   case "run":
     console.log("You're running?");
-    default:
+  default:
       console.log("Invalid actions.");    
 }
 
